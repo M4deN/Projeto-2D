@@ -14,7 +14,7 @@
 </ul>
 
 <h2 id="sobre">Sobre</h2>
-<p>Esse projeto Foi desenvolvido para a disciplina de desenvolvimento de jogos ministrada pelo professor Paulo Nardi, com o intuito de aplicar todos os conhecimentos obtido durante o primeiro trimestre de 2022 englobando conceitos de 2D no projeto 1, alguns dos requisitos do projeto era a criação de um jogo semelhante ao Mario World com no minimo 1 NPC detecção de colisão, caso ocorresse o PC deveria ser destruido, e mais alguns requisitos que não estão descritos.
+<p>Esse projeto Foi desenvolvido para a disciplina de desenvolvimento de jogos ministrada pelo professor Paulo Nardi, com o intuito de aplicar todos os conhecimentos obtido durante o primeiro trimestre de 2022 englobando conceitos de 2D no projeto 1, alguns dos requisitos do projeto era a criação de um jogo semelhante ao Mario World com no minimo 1 NPC detecção de colisão, caso ocorresse o PC deveria ser destruido, no minimo 2 Plataformas móveis e mais alguns requisitos que não estão descritos.
 Desenvolido todo em UNITY.</p>
 
 
