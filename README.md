@@ -30,7 +30,7 @@ Desenvolido todo em UNITY.</p>
 <h3>Tela Principal:</h3>
 
 
-![Começo](https://github.com/AlexDeSaran/Projeto_3D/blob/main/img.png)
+![Começo](https://github.com/AlexDeSaran/Projeto_Plataforma/blob/main/img1.png)
 
 ##### Autor do Projeto: Alécio L. Medeiros
 
