@@ -29,8 +29,15 @@ Desenvolido todo em UNITY.</p>
 
 <h3>Tela Principal:</h3>
 
-
 ![Começo](https://github.com/AlexDeSaran/Projeto_Plataforma/blob/main/img1.png)
+
+<h2 id="sessao">Inicio Jogo:</h2>
+
+![Começo](https://github.com/AlexDeSaran/Projeto_Plataforma/blob/main/img2.png)
+
+<h2 id="sessao">Personagem :</h2>
+
+![Começo](https://github.com/AlexDeSaran/Projeto_Plataforma/blob/main/img3.png)
 
 ##### Autor do Projeto: Alécio L. Medeiros
 
