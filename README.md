@@ -1,5 +1,5 @@
 <h1> Projeto JOGO PLATAFORMA </h1>
-<p><b>Projeto 2 de Desenvolvimento de Jogos 🧮</b></p>
+<p><b>Projeto 1 de Desenvolvimento de Jogos 🧮</b></p>
 
 
 <h4> 
